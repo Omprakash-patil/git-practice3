@@ -1,1 +1,1 @@
-There is also need to learn git repository.
+This is branch 1 and chapter number 2.
